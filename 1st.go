@@ -6,11 +6,11 @@ func  main(){
 	var intNum int =  48535
 	fmt.Println(intNum)
 
-	var floatNum float = 345430.454
+	var floatNum float64 = 345430.454
 	fmt.Println(floatNum)
 
 	var intNum1 int = 6 
-	var inNum2 int = 3
+	var intNum2 int = 3
 	fmt.Println(intNum1/intNum2)
 	fmt.Println(intNum1%intNum2)
 
