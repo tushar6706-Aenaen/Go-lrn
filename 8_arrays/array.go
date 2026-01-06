@@ -21,7 +21,7 @@ func main() {
 	// fmt.Println(name)
 
 	// to declare it in single line
-	// nums := [3]int{1, 2, 3}
+	// nums := [3]int{1,2,3}
 	// fmt.Println(nums)
 
 	// 2d arrays
